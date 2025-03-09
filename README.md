@@ -1,16 +1,5 @@
 
-![Twitter Follow](https://img.shields.io/twitter/follow/VUMCMedicineRes?style=social)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fvimbook.beauhilton.com)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vanderbilt-internal-medicine/vimbook)
-
-# VIMbook
-
-This repository has the contents of the Vanderbilt Internal Medicine Handbook (VIMBook).
-
-
-## contributing
-
+VUMC general surgery handbook
 
 ### getting access
 
